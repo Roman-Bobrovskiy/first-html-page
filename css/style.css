@@ -6,7 +6,7 @@ header {
   margin: 0;
   width: 1250px;
   height: 580px;
-  background: url(/img/header_background.png);
+  background: url(./img/header_background.png);
 }
 ul {
   list-style-type: none;
@@ -14,7 +14,7 @@ ul {
 ul.nav {
   margin: 0;
   height: 89px;
-  background: url(/img/Prechu_logo.png) 141px 24px / 179px 44px no-repeat;
+  background: url(./img/Prechu_logo.png) 141px 24px / 179px 44px no-repeat;
   background-color: #ffffff;
 }
 .nav li {
@@ -43,7 +43,7 @@ nav a:hover {
 .singup {
   width: 1250px;
   height: 490px;
-  background: url(/img/iphone.png) 177px 40px no-repeat;
+  background: url(./img/iphone.png) 177px 40px no-repeat;
 }
 ul.info {
   margin: 0;
@@ -72,7 +72,7 @@ ul.info {
   position: absolute;
   left: 680px;
   top: 445px;
-  background: url(/img/sing_up_botton.png) 100% no-repeat;
+  background: url(./img/sing_up_botton.png) 100% no-repeat;
   font-family: 'Noto Sans', sans-serif;
   font-size: 20px;
   color: #ffffff;
@@ -86,7 +86,7 @@ ul.info {
   width: 186px;
   height: 186px;
   border-radius: 50%;
-  background: url(/img/pen.png) 50% 50% no-repeat #5094f2;
+  background: url(./img/pen.png) 50% 50% no-repeat #5094f2;
 }
 .box4 {
   position: absolute;
@@ -95,7 +95,7 @@ ul.info {
   width: 186px;
   height: 186px;
   border-radius: 50%;
-  background: url(/img/monitor.png) 50% 50% no-repeat #d94748;
+  background: url(./img/monitor.png) 50% 50% no-repeat #d94748;
 }
 .box5 {
   position: absolute;
@@ -104,7 +104,7 @@ ul.info {
   width: 186px;
   height: 186px;
   border-radius: 50%;
-  background: url(/img/something_strange.png) 50% 50% no-repeat #ebbb11;
+  background: url(./img/something_strange.png) 50% 50% no-repeat #ebbb11;
 }
 .text_cpopular {
   font-family: 'Noto Sans', sans-serif;
@@ -152,7 +152,7 @@ ul.info {
   left: 159px;
   width: 371px;
   height: 366px;
-  background: url(/img/cart.png) 100% 100% no-repeat;
+  background: url(./img/cart.png) 100% 100% no-repeat;
   font-family: 'Noto Sans', sans-serif;
   font-size: 42.35px;
   text-decoration: none;
